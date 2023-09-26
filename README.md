@@ -11,3 +11,9 @@
 - [Cifra](https://neps.academy/br/competition/1732/exercise/2509) - [Solution](Neps%20Academy/Cifra/main.cpp)
 - [Permutação Máxima](https://neps.academy/br/competition/1732/exercise/2507) - [Solution](Neps%20Academy/Frações%20Binárias/main.cpp)
 - [Frações Binárias](https://neps.academy/br/competition/1732/exercise/2473) - [Solution](Neps%20Academy/Permutação%20Máxima/main.cpp)
+
+### USACO
+
+- [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891) - [Solution](USACO/Shell%20Game/main.cpp)
+- [Mixing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=855) - [Solution](USACO/Mixing%20Milk/main.cpp)
+- [The Cow-Signal](http://www.usaco.org/index.php?page=viewproblem2&cpid=665) - [Solution](USACO/The%20Cow-Signal/)
