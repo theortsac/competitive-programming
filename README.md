@@ -6,6 +6,7 @@
 
 ### CodeForces
 - [ABBC or BACB](https://codeforces.com/problemset/problem/1873/G) - [Solution](CodeForces/ABBC%20or%20BACB/main.cpp)
+- [Data Structures Fan](https://codeforces.com/problemset/problem/1872/E) - [Solution](CodeForces/Data%20Structures%20Fan/main.cpp)
 
 ### Atcoder
 - [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) - [Solution](AtCoder/I%20-%20Coins/main.cpp)
