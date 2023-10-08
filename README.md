@@ -40,6 +40,7 @@
 - [Pizza da OBI](https://noic.com.br/materiais-informatica/comentario/obi-2023/fase2-pj/)
 - [Empresa](https://noic.com.br/materiais-informatica/comentario/obi-2023/obi-2023-fase-2-tipo-b-programacao-nivel-junior/)
 - [Cifra](https://noic.com.br/materiais-informatica/comentario/oboi-2023/fase2-senior/)
+- [Tesouro](https://noic.com.br/materiais-informatica/comentario/obi-2023/fase3-pj/)
 
 ### Original problems
 - [Decimalmente Conectados](https://neps.academy/br/exercise/2324)
