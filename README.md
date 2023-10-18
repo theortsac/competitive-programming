@@ -6,9 +6,10 @@
 
 ### CodeForces
 
-#### **1500 rated** - ![](https://geps.dev/progress/2)
 - [ABBC or BACB](https://codeforces.com/problemset/problem/1873/G) - [Solution](CodeForces/ABBC%20or%20BACB/main.cpp)
 - [Data Structures Fan](https://codeforces.com/problemset/problem/1872/E) - [Solution](CodeForces/Data%20Structures%20Fan/main.cpp)
+- [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) - [Solution](CodeForces/Remove%20Two%20Letters/main.cpp)
+- [Hemose Shopping](https://codeforces.com/contest/1592/problem/B) - [Solution](CodeForces/Hemose%20Shopping/main.cpp)
 
 ### Atcoder
 - [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) - [Solution](AtCoder/I%20-%20Coins/main.cpp)
@@ -32,6 +33,7 @@
 
 ### Techniques
 - [Material teaching the basics of Binary Lifting](https://noic.com.br/materiais-informatica/curso/binary-lifting/)
+- [Starting from the beginning](https://noic.com.br/materiais-informatica/curso/comecando-do-zero/)
 
 ### Commented solutions
 - [Pokéamigos/CF-Quests](https://noic.com.br/materiais-informatica/problemas-da-semana/iniciante-semana40/solucao/)
