@@ -1,0 +1,4 @@
+- Bin search?
+- knapsack na bin search ia dar bom
+- slk solved com a intuição inicial vapo, depois de otimizar muito pra nn dar MLE, e passou raspando (o TL é 4 passou com 2.1)
+- Li o editoral, e fui burro, não precisa da bin search, mas foi bem

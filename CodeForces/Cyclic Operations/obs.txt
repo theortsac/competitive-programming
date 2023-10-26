@@ -1,0 +1,3 @@
+- Graph? Similar to "selling a menagerie"
+- Implemented it and no good, WA on test 2
+- Fuck yeah, solved a bunch of stuff but we got it bois

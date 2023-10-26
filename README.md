@@ -10,6 +10,10 @@
 - [Data Structures Fan](https://codeforces.com/problemset/problem/1872/E) - [Solution](CodeForces/Data%20Structures%20Fan/main.cpp)
 - [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) - [Solution](CodeForces/Remove%20Two%20Letters/main.cpp)
 - [Hemose Shopping](https://codeforces.com/contest/1592/problem/B) - [Solution](CodeForces/Hemose%20Shopping/main.cpp)
+- [Selling a Menagerie](https://codeforces.com/problemset/problem/1872/F) - [Solution](CodeForces/Selling%20a%20Menagerie/main.cpp)
+- [Prefix Purchase](https://codeforces.com/problemset/problem/1870/D) - [Solution](CodeForces/Prefix%20Purchase/main.cpp)
+- [Cyclic Operations](https://codeforces.com/problemset/problem/1867/D) - [Solution](CodeForces/Cyclic%20Operations/main.cpp)
+- [Magic Will Save the World](https://codeforces.com/problemset/problem/1862/F) - [Solution](CodeForces/Magic%20Will%20Save%20the%20World/main.cpp)
 
 ### Atcoder
 - [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) - [Solution](AtCoder/I%20-%20Coins/main.cpp)
