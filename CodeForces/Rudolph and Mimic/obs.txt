@@ -1,0 +1,5 @@
+- Not remove any object until the total amount of each one changes
+- Once it does remove all the ones that arent from the type that increased
+- Wait for it to change again
+- Kill the son of a bitch
+- i love interactive problems now, took 38 minutes to solve this one, so probably rating inflated af

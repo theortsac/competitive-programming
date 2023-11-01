@@ -14,6 +14,9 @@
 - [Prefix Purchase](https://codeforces.com/problemset/problem/1870/D) - [Solution](CodeForces/Prefix%20Purchase/main.cpp)
 - [Cyclic Operations](https://codeforces.com/problemset/problem/1867/D) - [Solution](CodeForces/Cyclic%20Operations/main.cpp)
 - [Magic Will Save the World](https://codeforces.com/problemset/problem/1862/F) - [Solution](CodeForces/Magic%20Will%20Save%20the%20World/main.cpp)
+- [Rudolph and Mimic](https://codeforces.com/contest/1846/problem/F) - [Solution](CodeForces/Rudolph%20and%20Mimic/main.cpp)
+- [PermuTree (easy version)](https://codeforces.com/contest/1856/problem/E1) - [Solution](CodeForces/PermuTree%20(easy%20version)/main.cpp)
+- [Binary String Sorting](https://codeforces.com/contest/1809/problem/D) - [Solution](CodeForces/Binary%20String%20Sorting/main.cpp)
 
 ### Atcoder
 - [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) - [Solution](AtCoder/I%20-%20Coins/main.cpp)
